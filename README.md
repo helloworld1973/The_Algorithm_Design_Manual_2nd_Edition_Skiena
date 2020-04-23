@@ -1,0 +1,2 @@
+# The_Algorithm_Design_Manual_2nd_Edition_Skiena
+JAVA_The_Algorithm_Design_Manual_2nd_Edition_Skiena
